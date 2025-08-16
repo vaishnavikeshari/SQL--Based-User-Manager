@@ -16,7 +16,7 @@ It also includes a feature to display the **total number of users** stored in th
 
 ## 🛠️ Tech Stack  
 - **Database:** SQL (MySQL)  
-- **Language / Framework:** (Node.js / Express.js /ejs templating – update based on your code)  
+- **Language / Framework:** (Node.js / Express.js /ejs templating)  
 - **Tools:** Git, GitHub,vscode  
 
 ---
