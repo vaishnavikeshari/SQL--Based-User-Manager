@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+button{
+    padding: 10px;
+}
+
+h1{
+    position: relative;
+    left: 25%;
+}
+table ,th,td{
+    border:2px solid black;
+    text-align: center;
+}
+
